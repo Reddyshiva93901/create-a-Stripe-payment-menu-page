@@ -1,0 +1,2 @@
+npx create-react-app color-generator
+cd color-generator
